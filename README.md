@@ -57,5 +57,3 @@ This project aims to predict human personality traits based on handwriting sampl
 - Stuti Jain
 - Subhanshi Agarwal
 
-## License
-This project is licensed under the MIT License.
