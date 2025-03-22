@@ -45,7 +45,7 @@ This project aims to predict human personality traits based on handwriting sampl
 5. The results are displayed with an explanation.
 
 ## Sample Output
-![Sample Output](C:\Users\srishti agarwal\Downloads\Screenshot (597).png)
+![Sample Output](https://github.com/srishti-cmd/ML-Website/blob/master/output.png)
 
 ## Future Enhancements
 - Improve accuracy with advanced deep learning models.
