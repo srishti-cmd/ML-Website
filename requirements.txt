@@ -33,6 +33,7 @@ pillow==11.0.0
 protobuf==5.29.1
 Pygments==2.18.0
 PyMySQL==1.1.1
+python==3.10
 requests==2.32.3
 rich==13.9.4
 six==1.17.0
